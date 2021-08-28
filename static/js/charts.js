@@ -110,7 +110,6 @@ function buildCharts(sample) {
               font: {size: 25}
               },
      xaxis: {title: 'Sample Values'},
-     yaxis: {title: 'OTU IDs'},
      margin: {t: 50},
      font: {color: '#550A35', family: 'Arial, Helvetica, sans-serif'}
     };
