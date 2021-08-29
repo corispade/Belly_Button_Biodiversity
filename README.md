@@ -7,6 +7,7 @@ We have sampled the navels of people across the country to identify bacterial sp
 Click [here](https://corispade.github.io/Belly_Button_Biodiversity/) to access the dashboard.
 
 ## Process:
+Reference [index.html](https://github.com/corispade/Belly_Button_Biodiversity/blob/main/index.html) and [charts.js](https://github.com/corispade/Belly_Button_Biodiversity/blob/main/static/js/charts.js) for below deliverables.
 
 ### Deliverable 1: Horizontal Bar Chart
 1. Created arrays to update the bar chart as participant ID is selected
