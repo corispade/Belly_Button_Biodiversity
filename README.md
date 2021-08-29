@@ -4,7 +4,7 @@
 
 We have sampled the navels of people across the country to identify bacterial species that colonize our belly buttons. We are creating a dashboard to display our results. Using anonymous participant ID numbers, both research participants and fellow researchers can access the belly button bacteria data collected through our webpage. 
 
-Click [here]() to access the dashboard.
+Click [here](https://corispade.github.io/Belly_Button_Biodiversity/) to access the dashboard.
 
 ## Process:
 
@@ -34,7 +34,7 @@ Click [here]() to access the dashboard.
 5. Added padding to format page layout
 
 ## Resources:
-Data Sources: [samples.json]()
+Data Sources: [samples.json](https://github.com/corispade/Belly_Button_Biodiversity/blob/main/samples.json)
 
 Languages: JavaScript, HTML5
 
